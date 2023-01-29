@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    background-color: rgb(26, 26, 26);
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    margin-top: 25vh;
+}
+.links {
+    text-decoration: none;
+    color: rgb(60, 60, 60);
+    margin-right: 10vh;
+    font-size: 1em;
+}
+@media only screen and (max-width: 768px) {
+    .navbar {
+        justify-content: space-around;
+        align-items: center;
+    }
+    .links {
+        margin: 0;
+    }
+}
