@@ -4,8 +4,8 @@ import '../styles/Home.css'
 function Home() {
   return (
     <div className='wrapper'>
-        <p className='indent title'><span className='growth'>Growth</span>Card</p>
-        <p className='indent tagline'>Making <span className='startup'>STARTUPS</span> <span className='number'>100x</span> more viable through tech <span className='cash'>cashbacks</span></p>
+        <p className='indent title'><span className='growth'>Sum</span>Doc</p>
+        <p className='indent tagline'><span className='hundred'>100x</span> your Learning through <span className='hundred'>Summarizations</span>, <span className='hundred'>Keywords</span>, and <span className='hundred'>Notes</span></p>
     </div>
   );
 }

@@ -7,16 +7,19 @@
     width: 100%;
 }
 .mission-tagline {
-    color: rgb(0, 0, 0);
+    color: rgb(23, 23, 23);
     font-size: 3em;
     width: 80%;
 }
-.savings {
-    color: rgb(6, 75, 52);
+.simplify {
+    color: rgb(82, 82, 82);
 }
 .mission-statement {
     width: 80%;
     line-height: 4vh;
     font-size: 1.1em;
     color: rgb(74, 74, 74);
+}
+.Doc {
+    color: rgb(37, 37, 37);
 }

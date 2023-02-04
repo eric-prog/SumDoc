@@ -6,11 +6,15 @@ import '../styles/Home.css'
 function Mission() {
   return (
     <div className='mission'>
-        <p className='mission-tagline'>A Card with All the <span className='savings'>Savings to Grow</span></p>
+        <p className='mission-tagline'>Simplify Your <span className='simplify'>Learning With Sum<span className='Doc'>Doc</span></span></p>
         <p className='mission-statement'>
-            Building a startup is hard. Which is why we are trying to gather all the tools a startup needs
-            and provide cashback and rewards for all of them. This is includes your favourite databases, web hosting platforms,
-            payment/learning subscriptions, and software platforms... 
+            Have you ever read thousands of words only to realize that the answer was in the last sentence? Or that moment
+            when your History teacher gave you 15 different links to conduct research on? Reading and processing all this information
+            can be tedious, annoying, and unnessesary. By using SumDoc you'll be able to summarize documents, text, websites, 
+            PDFs, and virtually anything...
+            <br></br>
+            <br></br>
+            Oh, and it also returns notes, and keywords (dates, numbers, anything important yk)... 
         </p>
     </div>
   );
